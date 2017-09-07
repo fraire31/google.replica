@@ -1,0 +1,183 @@
+* {
+	font-family: Helvetica;
+	font-weight: thin;
+	background-color:/**black**/;
+}
+
+.navigation {
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+	padding-left: 80px;
+	padding-color: black;
+}
+
+.navigation li {
+	display: inline-block;
+	margin: 10px 38px 10px 38px;
+	font-weight: .2em;
+	font-size: 12px;
+}
+
+.imgbackground h1{
+	position: relative;
+	bottom: 550px;
+	left: 700px;
+	color: white;
+}
+
+.imgbackground img{
+	position: inline-block;
+	position: relative;
+	left: 300px;
+	width: 1000px;
+}
+
+.imgbackground {
+	background-color: black;
+	height: 600px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	margin-color: black;
+}
+
+span {
+	font-size: 55px;
+	display: block;
+    position:relative;
+    right: 45px;
+    font-weight: thin;
+}
+
+.midsection1 h3{
+	font-size: 14px;
+	text-align: center;
+	position: relative;
+	top:90px;
+	color: white;
+}
+
+.midsection1 {
+	margin-left: 0px;
+	padding-left:0px;
+	display: inline-block;
+	position: relative;
+	bottom: 50px;
+}
+
+.midsection1 img{
+	width: 380px;
+}
+
+.midsection2 h3{
+	color:white;
+	position: relative;
+	top: 80px;
+	margin-left: 10px;
+}
+
+.midsection2 {
+	display: inline-block;
+	position: relative;
+	bottom: 48px;
+	right: 2px;
+}
+
+.midsection2 img{
+	height: 240px;
+	width: 380px;
+}
+
+.midsection3 {
+	display: inline-block;
+	position: relative;
+	bottom: 55px;
+	left: 40px;
+	height: 260px;
+	background-color: white !important;
+	padding-color: white !important;
+	margin-color: white !important;
+}
+
+.midsection3 img{
+	width: 250px;
+	position: relative;
+	left:20px;
+}
+
+.midsection3 h3{
+	text-align:center;
+	position: relative;
+	top: 20px;
+}
+
+.midsection4 h3{
+	color: white;
+	position: relative;
+	top: 90px;
+	left: 250px;
+}
+
+.midsection4 {
+	display: inline-block;
+	position: relative;
+	left: 55px;
+	bottom: 40px;
+}
+
+.footer {
+	font-size: 12px;
+	text-align: center;
+}
+
+.listheading{
+	font-size: 12px;
+	font-weight: bold;
+
+}
+
+.footer li {
+	list-style-type: none;
+	text-align: left;
+	margin-bottom: 5px;
+
+}
+
+.list {
+	display: inline-block;
+}
+
+#three{
+	position: relative;
+	bottom: 165px;
+}
+
+#four{
+	position: relative;
+	right: 150px;
+	bottom:30px;
+}
+
+#five{
+	position: relative;
+	right: 135px;
+	bottom:165px;
+}
+
+#six{
+	position:relative;
+	right: 310px;
+
+}
+
+#seven{
+	position: relative;
+	right: 310px;
+	bottom: 40px;
+}
+
+.upperbody{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
